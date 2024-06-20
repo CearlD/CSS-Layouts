@@ -251,4 +251,24 @@ footer p {
   color: green;
 }
 
-/* Added comments below */
+
+/* FLOATS */
+.author-img {
+  float: left; 
+}
+
+.author {
+/* padding-left: 80px; */
+margin-left: 20px;
+margin-top: 10px;
+float: left;
+}
+
+h1 {
+  float: left;
+}
+
+nav {
+  float: right;
+  
+}
